@@ -1,6 +1,6 @@
-# Lucas carneiro 
+# 👨🏻‍💻 Lucas carneiro 
 
-**`Desenvolvedor Front-End`**
+**`Desenvolvedor Frontend`**
 
 Me chamo Lucas e sou estudante de Sistemas para Internet e integrante do programa Embarque Digital, sou apaixonado por tecnologia e desenvolvimento de software. Tenho me aprofundado na área de Front-end, estudando, por exemplo, HTML, CSS e React nos cursos livres da ‘Origamid’ e ‘Curso em Vídeo’ para aprimorar minhas habilidades e conhecimentos.
 Durante minha trajetória acadêmica, participei de residências tecnológicas e projetos integradores, onde desenvolvi habilidades em diversas linguagens, como, por exemplo, JavaScript. Atuei no desenvolvimento de um marketplace de serviços e um aplicativo de produtividade/bem-estar, além de colaborar como extensionista no projeto Combogó. Nessas experiências, refinei minhas habilidades em gestão de projetos, trabalho em equipe e proatividade, utilizando metodologias ágeis como Kanban e Scrum.
@@ -148,7 +148,7 @@ Atualmente, busco oportunidades como estagiário em Front-end para aplicar e exp
   alt="Github stats"
   height="200"
   style="padding-right: 10px;"
-  src="https://github-readme-stats.vercel.app/api?username=lucascarneiros&show_icons=true&theme=tokyonight&include_all_commits=true&custom_title=Estatísticas do GitHub de Lucas Carneiro"
+  src="https://github-readme-stats.vercel.app/api?username=lucascarneiros&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
 />
 
 <img
@@ -156,7 +156,7 @@ Atualmente, busco oportunidades como estagiário em Front-end para aplicar e exp
   alt="Top languages"
   height="200"
   style="padding-right: 10px;"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascarneiros&theme=tokyonight&layout=compact&custom_title=Top tecnologias"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascarneiros&theme=tokyonight&layout=compact&custom_title=Tecnologias"
 />
 
 
